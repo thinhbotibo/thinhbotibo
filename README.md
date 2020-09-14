@@ -6,13 +6,15 @@ Hi I'm Phuc Hoang Pham. I'm from VietNam.
 I'm Undergrate Student :computer: :mortar_board:. My major is Computer Science :computer:. I'm tech enthusiast and are learning about Machine Learning :books:.
 
 :loud_sound: **Some Fact about me.** <br/>
-                - I'm student of Wentworth institute of technology!<br/>
-                - I'm currently learning Python<br/>
-                - I'm researching on:<br/>
-                        . 📊 Machine Learning & Data Science.<br/>
-                        .🖼 Computer Vision<br/>
-                        .🤖 Robotics<br/>
-                        . 💬 Ask me about Python's book and ML's book.<br/>
+                <ul>
+                <li> - I'm student of Wentworth institute of technology!
+                <li>- I'm currently learning Python
+                <li>- I'm researching on:
+                       <ul> <li> . 📊 Machine Learning & Data Science.<br/>
+                        <li>.🖼 Computer Vision<br/>
+                        <li>.🤖 Robotics<br/>
+                        <li>. 💬 Ask me about Python's book and ML's book.</li>
+                         </ul>
 
 
 <!--
