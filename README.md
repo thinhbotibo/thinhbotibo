@@ -16,7 +16,7 @@ I'm Undergrate Student :computer: :mortar_board:. My major is Computer Science :
                         <li>. 💬 Ask me about Python's book and ML's book.</li>
                          </ul>
 
-## ✉️ Find me on:
+## ✉️ Contact me at:
 
 
 <p align="center">
