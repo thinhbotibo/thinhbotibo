@@ -1,7 +1,7 @@
-### Hi Geeks! 👋
+
 ### hello, Geeks!  👋
 
-A little about me :eyeglasses:
+**A little about me:** :eyeglasses:
 Hi I'm Phuc Hoang Pham. I'm from VietNam.
 I'm Undergrate Student :computer: :mortar_board:. My major is Computer Science :computer:. I'm tech enthusiast and are learning about Machine Learning :books:.
 
